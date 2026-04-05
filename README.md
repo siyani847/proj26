@@ -25,7 +25,9 @@ Engineered an intelligent documentation system that automates code understanding
 2.Backend fetches repository data via GitHub API
 
 3.Files are processed and structured
+
 4.AI model analyzes code and generates documentation
+
 5.Frontend displays generated README and insights
 
 ---
