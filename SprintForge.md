@@ -5,12 +5,12 @@ Agile project management tool with sprint planning, team collaboration, and docu
 **React 18 + Vite · Node.js + Express · MongoDB + Mongoose · JWT Auth**
 
 <img width="1901" height="862" alt="Screenshot 2026-04-06 090648" src="https://github.com/user-attachments/assets/1288ba22-5620-412b-804f-fc0fad09d9f7" />
-
+---
 
 <img width="1892" height="856" alt="Screenshot 2026-04-06 091109" src="https://github.com/user-attachments/assets/78a7d7a0-0b05-4f5b-b082-97f41b5371f0" />
-
+---
 <img width="1904" height="856" alt="Screenshot 2026-04-06 090856" src="https://github.com/user-attachments/assets/6b7cdada-d6e5-40ae-b883-b8fc920d9873" />
-
+---
 <img width="1899" height="836" alt="Screenshot 2026-04-06 090815" src="https://github.com/user-attachments/assets/c6e7de18-0d0e-4d0b-b934-54a91180f5b6" />
 
 <img width="1896" height="853" alt="Screenshot 2026-04-06 085721" src="https://github.com/user-attachments/assets/1010f095-d1a4-479a-ad6b-338e2353f54a" />
